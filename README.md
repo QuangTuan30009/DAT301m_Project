@@ -134,7 +134,7 @@ byt5_correction/ (saved model)
         └─▶ test_byt5.py  (inference + interactive)
 ```
 
-## 📊 Noise types
+## Noise types
 
 | Loại noise | Module | Mô tả |
 |-----------|--------|--------|
@@ -158,12 +158,3 @@ Các hyperparameter quan trọng (trong `train_byt5.py`):
 | `LR` | 1e-4 | Learning rate |
 | `WARMUP_RATIO` | 0.06 | Warmup ratio |
 | `CLEAN_RATIO` | 0.40 | 40% chunks giữ clean (trong `build_chunks.py`) |
-
-## 📝 License
-
-<!-- Thêm license nếu cần -->
-
-## 🙏 Acknowledgements
-
-- [google/byt5-small](https://huggingface.co/google/byt5-small) — Byte-level T5 model
-- [HuggingFace Transformers](https://github.com/huggingface/transformers)
