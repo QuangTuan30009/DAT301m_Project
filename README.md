@@ -33,12 +33,12 @@ Fine-tune [google/byt5-small](https://huggingface.co/google/byt5-small) để s�
 ├── byt5_correction/            # Model weights (sau khi train)
 │   ├── config.json
 │   ├── tokenizer_config.json
-│   └── model.safetensors       # ⚠️ Không push Git (1.1 GB)
+│   └── model.safetensors      
 │
 ├── requirements.txt
 └── .gitignore
 ```
-
+link của model.safetensors   :https://drive.google.com/drive/folders/1u8F0Ukl0COzRHfEDJGo1cbmwYfs-gHit?usp=sharing
 ## 🚀 Hướng dẫn sử dụng
 
 ### 1. Cài đặt dependencies
@@ -84,15 +84,6 @@ Mỗi file chứa 2 cột:
 python train_byt5.py
 ```
 
-Cấu hình phần cứng (chỉnh trong `train_byt5.py`):
-
-| Môi trường | BATCH_SIZE | GRAD_ACCUM | Effective batch | Ghi chú |
-|------------|-----------|------------|-----------------|---------|
-| Colab T4 (1 GPU) | 2 | 8 | 16 | |
-| Kaggle T4×2 (2 GPU) | 2 | 8 | 32 | Khuyến nghị |
-| Kaggle P100 (1 GPU) | 2 | 8 | 16 | Đặt `USE_BF16=False` |
-
-> **Lưu ý:** Nếu chạy trên Kaggle, cần sửa đường dẫn `TRAIN_CHUNKS`, `VAL_CHUNKS`, `TEST_CHUNKS` trong `train_byt5.py` cho đúng path trên Kaggle.
 
 Model sẽ được lưu tại `byt5_correction/`.
 
