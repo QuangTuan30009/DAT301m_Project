@@ -1,0 +1,9 @@
+stands for Spanish Restricted-domain Task of Cursive Script). There were two
+main reasons for creating this corpus. First of all, most databases do not contain
+Spanish sentences, even though Spanish is a widespread major language. Another
+tasks are commonly used in practice and allow the use of linguistic knowledge.
+beyond the lexicon level in the recognition process..
+As the Spartacus database consisted mainly of short sentences and did not
+fixed places: dedicated one-line fields in the forms. Next figure shows one
+of the forms used in the.acquisition process. These forms also coptain a brief
+set of instructions given to the writer..

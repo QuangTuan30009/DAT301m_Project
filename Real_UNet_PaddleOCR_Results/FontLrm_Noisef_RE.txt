@@ -1,0 +1,14 @@
+A new offine handwritten database for the Spanish lan
+been developed: the Spartacus database (which stands for.
+Spanish Restricted-domain Task of Cursive Script). There
+were two main reasons for creating this corpus. First of
+all, most databases do not contain Spanish sentences, even
+though Spanish is a widespread major language. Another
+important reason was to create a corpus from semantic-
+restricted tasks. These tasks are commonly used in prac-.
+tice and allow the use of linguistic knowledge beyond the
+lexicon level in the recognition process.
+As the Spartacus database consisted mainly of short sen-.
+were asked to copy a set of sentences in fixed places: dedi-
+cated one-line fields in the forms. Next figure shows one of
+contain a brief set of instructions given to the writer

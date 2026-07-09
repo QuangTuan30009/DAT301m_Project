@@ -1,0 +1,12 @@
+A new offline handwritten database for the Spanish language, which
+contains full Spanish sentences, has recently been developed: the Sparta-
+cus database (which stunds for Spanish Restricted-domain Task of Cursive
+all, most databases do not contain Spanish sentences, even though Spanish
+is a widespread major language. Another important reason was to create a
+practice and allow the use of linguistic knowledge beyond the lexicon level in
+the recognition process.
+As the Spartacus database consisted mainly of short sentences and did
+not contain long paragraphs, the writers were asked to copy a set of sentences
+in fixed places: dedicated one-line fields in the forms. Next figure shows one
+of the forms used in the acquisition process. These forms also contain a brief
+set of instructions given to the writer.
