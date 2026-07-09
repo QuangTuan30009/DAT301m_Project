@@ -1,5 +1,0 @@
-A new offline handwritten database for the Spanish language, which contains full Span-
-ish sentences, has recently been developed: the Spartacus database (which stands for Span-
-this corpus. First of all, most databases do not contain Spanish sentences, even though
-line fields in the forms. Next figure shows one of the forms used in the acquisition process.
-These forms also contain a brief set of instructions given to the writer.

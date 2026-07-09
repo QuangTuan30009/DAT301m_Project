@@ -1,9 +1,0 @@
-which contains full Spanish sentences, has recently been developed:
-this corpus. First of all, most databases do not contain Spanish
-sentences, even though Spanish is a widespread major language.. Another
-important reason was to create a corpus from semantic-restricted
-tasks. These tasks are commonly used in practice and allow the
-process.
-As the Spartacus database consisted mainly of short sentences
-a set of sentences in fixed places: dedicated one-line fields in
-to the writer
