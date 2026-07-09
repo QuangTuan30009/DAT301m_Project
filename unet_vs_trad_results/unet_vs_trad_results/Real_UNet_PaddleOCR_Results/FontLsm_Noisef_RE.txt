@@ -1,0 +1,16 @@
+A new offline handwritten database for the Spanish lan.
+guage, which contains full Spanish sentences, has recently.
+been developed: the Spartacus database (which stands for
+Spanish Restricted-domain Task of Cursive Script). There
+were two main reasons for creating this corpus. First of all.
+most databases do not contain Spanish sentences, even though.
+qaennodnn Jnnnnnn aanennuen Jolew penadanpar e s! yaiuedg
+reason was to create a corpus from semantic-restricted tasks
+These tasks are commonly used in practice and allow the use
+of linguistic knowledge beyond the lexicon level in the recog..
+nition process.
+As the Spartacus database consisted mainly of short sen-
+tences and did not'contain long paragraphs, the writers were
+asked to copy a set of sentences in fixed places: dedicated one-
+used in the acquisition process. These forms also contain a
+brief set of instructions given to the writer.

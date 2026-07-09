@@ -1,0 +1,5 @@
+process.
+As the Spartacus database consisted mainly of short sentences
+a set of sentences in fixed places: dedicated one-line fields in
+the forms. Next figure shows one of the forms used in the acguisition
+to the writer
